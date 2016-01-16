@@ -1,0 +1,8 @@
+cmake_install.cmake
+CMakeFiles
+Makefile
+/tmp/
+/src/
+/dyncall/libdyncall_s.a
+/dyncallback/libdyncallback_s.a
+/dynload/libdynload_s.a
