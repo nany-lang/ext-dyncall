@@ -1,6 +1,15 @@
 cmake_install.cmake
 CMakeFiles
 Makefile
+*.vcxproj*
+*.dir
+*.sln
+/dyncall/Debug/
+/dyncallback/Debug/
+/dynload/Debug/
+/dyncall/Release/
+/dyncallback/Release/
+/dynload/Release/
 /tmp/
 /src/
 /dyncall/libdyncall_s.a
